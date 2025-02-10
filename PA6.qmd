@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Barbara Ibrahim, Ben Hobbs, Gabby Apsay, Emma Turilli
 format: html
 editor: visual
 embed-resources: true
